@@ -6,7 +6,7 @@
   "action": {
     "title": "ONE Sheet",
     "icon": "/icon.svg",
-    "popover": "/index.html",
+    "popover": "./index.html",
     "width": 450,
     "height": 700
   }
