@@ -5,8 +5,8 @@
   "author": "Bonykou",
   "action": {
     "title": "ONE Sheet",
-    "icon": "/icon.svg",
-    "popover": "./index.html",
+    "icon": "icon.svg",
+    "popover": "index.html",
     "width": 450,
     "height": 700
   }
